@@ -2,7 +2,7 @@
 
 This will create a storage account and storage container for you to use in other terraform configurations. 
 
-Followed the [microsoft documentation](https://learn.microsoft.com/en-us/azure/developer/terraform/store-state-in-azure-storage?tabs=terraform)
+Followed the terraform state in azure storage [microsoft documentation](https://learn.microsoft.com/en-us/azure/developer/terraform/store-state-in-azure-storage?tabs=terraform)
 
 To use the terraform state in your app look at the section that includes setting up the backend.
 
